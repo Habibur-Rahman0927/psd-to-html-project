@@ -1,0 +1,109 @@
+
+#background{
+	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../img/Escape.jpg);
+	display: flex;
+	background-size: cover;
+
+}
+
+#header{
+	margin-top:40px;
+}
+#head-1 ul li{
+	display: inline-block;
+	margin-top: 3px;
+}
+#head-1 ul li a{
+	color: #c5c3ca;
+	padding: 20px;
+	text-decoration: none;
+	font-size: 18px;
+}
+#head-1 ul li a:hover{
+	color:#fff;
+}
+.sometext{
+	margin-top: 160px;
+	text-align: center;
+}
+.sometext p{
+	font-size: 30px;
+	color: #ffffff;
+
+}
+.sometext h1{
+	font-size: 80px;
+	color: #ffffff;
+}
+.btn-1{
+	width: 180px;
+	height: 60px;
+	color: #ffffff;
+	font-size: 20px;
+	font-weight: 600;
+	background: none;
+	border: 1px solid #ffffff;
+	margin-top: 70px;
+	margin-bottom: 125px;
+}
+.btn-1:hover{
+	color:#000;
+	background: #ffffff;
+}
+#background-1{
+	background-color: #ffffff;
+}
+.cont-1{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+#cont-2{
+	margin-top: 105px;
+	margin-bottom: 100px;
+	text-align: center;
+}
+
+#background-2{
+	background-color: #fafafa;
+}
+#cont-3{
+	margin-top: 110px;
+	margin-bottom: 100px;
+	text-align: center;
+}
+.cont-4{
+	margin-top: 130px;
+	margin-bottom: 10px;
+
+}
+#distance{
+	margin-top: 100px;
+}
+.sty-1{
+	margin-left: 85px;
+	margin-top: -78px;
+
+}
+.fak{
+font-size: 26px; 
+color: #777777;
+}
+.dd{
+	color: #7690c5;
+	 font-size: 20px;
+}
+
+#background-3{
+	background-color:#111111;
+	background-position: fixed;
+}
+#left{
+	padding-left: 8px;
+
+}
+.line{
+	background-color: #ffffff;
+	height: 0px;
+	padding-left: 555px;
+	padding-right: 555px;
+}
